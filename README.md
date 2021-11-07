@@ -12,9 +12,9 @@
 
 </br>
 
-
+ ## Tech Stacks:
 <div align="center">
-  ### Tech Stacks:
+
   <br>
       <a style="padding-right:8px;" href="https://www.cplusplus.com/" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++" height="50"/> </a>
     <a style="padding-right:8px;" href="https://html.com/" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" height="50" /> </a>
