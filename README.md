@@ -6,4 +6,4 @@
 
 #### Calculative Precautions: We may use a C++ algorithm to select a pathway with least possible collision of Debris with Chandravahan.
 
-#### Tech Stacks: 1. C++ for algorithms 2. HTML, CSS and JavaScript
+#### Tech Stacks: 1. C++ for fast algorithms 2. HTML, CSS and JavaScript
