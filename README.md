@@ -12,6 +12,9 @@
 
 </br>
 
+## About The Project:
+This is a HTML5 Game + Website which aims to help Chandravahan reach Moon
+
  ## Tech Stacks:
 <div align="center">
 
