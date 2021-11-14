@@ -1,7 +1,7 @@
 var timeleft = 10;
-var downloadTimer = setInterval(function(){
+var Timer = setInterval(function(){
   if(timeleft <= 0){
-    clearInterval(downloadTimer);
+    clearInterval(Timer);
     document.getElementById("countdown").innerHTML = "Let's Go!!";
   } else {
     document.getElementById("countdown").innerHTML = timeleft;

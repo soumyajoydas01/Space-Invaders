@@ -21,3 +21,7 @@
     <a style="padding-right:8px;" href="https://www.css3.com/" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="50" />  </a>     
     <a style="padding-right:8px;" href="https://www.javascript.com/" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" height="50" /> </a>
 </div>
+
+## Website Link:
+
+[Click Here](https://soumyajoydas01.github.io/Space-Invaders/index.html)
